@@ -1,0 +1,38 @@
+
+.bt {
+    height: 40px;
+    width: 320px;
+ background-color: rgb(222, 209, 209);
+}
+
+.pesquisa {
+    height: 40px;
+    width: 300px;
+}
+
+.but {
+    display: 0;
+    margin-right: auto;
+    margin-left: auto;
+    height: 180px;
+    width: 850px;
+    border: none;
+    border-radius: 10PX;
+ background-color: darkred;
+ font-family:0;
+ color: #000000;
+ font-size: 80px;
+ cursor: pointer;
+ box-shadow: 4px 4px 0px #000000;
+ transition: transform 200ms ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+.bot {
+    height: 40px;
+    width: 320px;
+ background-color: rgb(222, 209, 209);
+}
